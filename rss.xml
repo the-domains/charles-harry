@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Charles Harry]]></title>
+        <description><![CDATA[Charles Harry]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Jul 2016 20:31:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Biography]]></title>
+            <description><![CDATA[<article><h1>Biography</h1><p>Charles Harry is vice president for cyber and analytic solutions at Blackpoint Technologies, LLC, and a Research Scholar at the Center for International and Security Studies at Maryland. At Blackpoint, Harry leads a division of computer engineers and analysts to deliver comprehensive cyber solutions for public and private sector clients that incorporate network reconstruction, data analytics, mobile platform management, machine learning, and visualization techniques. Prior to his work at Blackpoint, Harry worked for the Department of Defense for 12 years where he led organizations tackling some of the hardest national security challenges. He has supported senior policy makers and has regularly appeared before congressional committees to provide testimony. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/107fc121-7f95-4ca8-bf4e-8de1e859603a.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/107fc121-7f95-4ca8-bf4e-8de1e859603a.jpg</link>
+            <guid isPermaLink="false">7d26c6b1-75f1-4e76-b820-beb186113371</guid>
+            <pubDate>Sat, 16 Jul 2016 20:31:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
