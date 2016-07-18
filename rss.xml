@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Charles Harry]]></title>
         <description><![CDATA[Charles Harry]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/charles-harry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 20:31:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jul 2016 10:11:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/charles-harry/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/915d453d-3f1b-45c0-ba0b-88754703d4fa.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/915d453d-3f1b-45c0-ba0b-88754703d4fa.jpg</link>
+            <guid isPermaLink="false">1fd9c985-ec01-4629-959e-ab0b01712f01</guid>
+            <pubDate>Mon, 18 Jul 2016 10:11:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Biography]]></title>
             <description><![CDATA[<article><h1>Biography</h1><p>Charles Harry is vice president for cyber and analytic solutions at Blackpoint Technologies, LLC, and a Research Scholar at the Center for International and Security Studies at Maryland. At Blackpoint, Harry leads a division of computer engineers and analysts to deliver comprehensive cyber solutions for public and private sector clients that incorporate network reconstruction, data analytics, mobile platform management, machine learning, and visualization techniques. Prior to his work at Blackpoint, Harry worked for the Department of Defense for 12 years where he led organizations tackling some of the hardest national security challenges. He has supported senior policy makers and has regularly appeared before congressional committees to provide testimony. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/107fc121-7f95-4ca8-bf4e-8de1e859603a.jpg"></article>]]></description>
