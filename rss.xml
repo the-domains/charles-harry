@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Charles Harry]]></title>
-        <description><![CDATA[Charles Harry]]></description>
+        <title><![CDATA[Charles Harry, PhD]]></title>
+        <description><![CDATA[Charles Harry, PhD]]></description>
         <link>https://thegrid.ai/charles-harry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 10:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 19:45:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/charles-harry/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Framing Disruptive Cyber Events]]></title>
+            <description><![CDATA[<article><h1>Framing Disruptive Cyber Events</h1><p>While all disruptive cyber events aim to affect an organization’s ability to produce, deliver, or communicate with its target audience, a malicious actor may utilize multiple tactics that have wildly different disruptive outcomes. These events might include the deletion of data across a wide range of corporate networks, the destruction of physical equipment used to produce goods, an attempt to prevent users from reaching a website, or the denial of access to a social media account. Given the wide range of disruptive events it is useful to categorize events by using both the tactics employed by the attacker and by measuring the impact of the event itself. To measure the impact of the disruptive event we might consider: where the event occurs in a network topology, the magnitude of the effect, and the length of time the disruption affects the organization’s operations. There are three framing questions that must be answered for any given disruptive event. These include:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/430dbb94-c644-4bf3-a2ab-8b88f41f1454.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/430dbb94-c644-4bf3-a2ab-8b88f41f1454.jpg</link>
+            <guid isPermaLink="false">cd4d916b-b51a-4ca5-82e6-8b9db9e3190e</guid>
+            <pubDate>Mon, 18 Jul 2016 19:45:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/915d453d-3f1b-45c0-ba0b-88754703d4fa.jpg">]]></description>
