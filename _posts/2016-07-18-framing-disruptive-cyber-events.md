@@ -1,17 +1,34 @@
 ---
-description: "While all disruptive cyber events aim to affect an organization’s ability to produce, deliver, or communicate with its target audience, a malicious actor may utilize multiple tactics that have wildly different disruptive outcomes. These events might include the deletion of data across a wide range of corporate networks, the destruction of physical equipment used to produce goods, an attempt to prevent users from reaching a website, or the denial of access to a social media account. Given the wide range of disruptive events it is useful to\_categorize events by using both the tactics employed by the attacker and by measuring the impact of the event itself. To measure the impact of the disruptive event we might consider: where the event occurs in a network topology, the magnitude of the effect, and the length of time the disruption affects the organization’s operations. There are three framing questions that must be answered for any given disruptive event. These include:"
-dateModified: '2016-07-18T10:17:28.211Z'
-datePublished: '2016-07-18T10:17:43.265Z'
+description: >-
+  While all disruptive cyber events aim to affect an organization’s ability to
+  produce, deliver, or communicate with its target audience, a malicious actor
+  may utilize multiple tactics that have wildly different disruptive outcomes.
+  These events might include the deletion of data across a wide range of
+  corporate networks, the destruction of physical equipment used to produce
+  goods, an attempt to prevent users from reaching a website, or the denial of
+  access to a social media account. Given the wide range of disruptive events it
+  is useful to categorize events by using both the tactics employed by the
+  attacker and by measuring the impact of the event itself. To measure the
+  impact of the disruptive event we might consider: where the event occurs in a
+  network topology, the magnitude of the effect, and the length of time the
+  disruption affects the organization’s operations. There are three framing
+  questions that must be answered for any given disruptive event. These include:
+dateModified: '2016-07-18T19:44:16.927Z'
+datePublished: '2016-07-18T19:45:42.284Z'
 title: Framing Disruptive Cyber Events
 author: []
-starred: false
 sourcePath: _posts/2016-07-18-framing-disruptive-cyber-events.md
+starred: false
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/430dbb94-c644-4bf3-a2ab-8b88f41f1454.jpg
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/430dbb94-c644-4bf3-a2ab-8b88f41f1454.jpg)
+
 # Framing Disruptive Cyber Events
 
 While all [disruptive cyber events][0] aim to affect an organization's ability to produce, deliver, or communicate with its target audience, a malicious actor may utilize multiple tactics that have wildly different disruptive outcomes. These events might include the deletion of data across a wide range of corporate networks, the destruction of physical equipment used to produce goods, an attempt to prevent users from reaching a website, or the denial of access to a social media account. Given the wide range of disruptive events it is useful to [categorize events by using both the tactics employed by the attacker and by measuring the impact of the event itself][1]. To measure the impact of the disruptive event we might consider: where the event occurs in a network topology, the magnitude of the effect, and the length of time the disruption affects the organization's operations. There are three framing questions that must be answered for any given disruptive event. These include:
@@ -30,7 +47,7 @@ The duration of an event is the third dimension of our analysis. Along with the 
 
 It is possible in theory to specify a mathematical model that synthesizes these three dimensions into a single measure of cyber disruption. We can define the scope of the event by summing across all the nodes in a network and multiplying by importance (centrality). The magnitude of the event is the defined as, for each node, the ratio of the disruptive effect on a node to its productive capacity. This enables us to estimate the portion of production for each node that is "disabled" due to a disruptive cyber event. Finally, the product of the scope and magnitude is summed over time to account for the duration of the disruptive event.
 
-The score, or Cyber Disruption Index (CDI), represents a single value that accounts for the three dimensions of analysis. That value can be used as a means of ranking events, thereby establishing a means of comparative analysis. 
+The score, or Cyber Disruption Index (CDI), represents a single value that accounts for the three dimensions of analysis. That value can be used as a means of ranking events, thereby establishing a means of comparative analysis.
 
 [0]: https://www.linkedin.com/pulse/cyber-attack-generic-terms-understandable-confusion-harry-phd?trk=prof-post
 [1]: http://www.cissm.umd.edu/sites/default/files/CategorizingDisruptiveCyberActivity%20-%20080615.pdf
