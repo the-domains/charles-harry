@@ -1,14 +1,26 @@
-layout_spectrum: 0.9032258
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.7831541
 color:
   saturation: 0.3783759
-  lightness: 0.2043011
   brandStrength: 0.7670251
+  rhythmicContrast: 0.5755157
   brandColors:
     - '#000000'
     - '#242C2F'
     - '#3C4749'
     - '#56686C'
     - '#9EB6B8'
-  rhythmicContrast: 0.5755157
+  lightness: 0.2043011
+layout_spectrum: 0.6487455
 name: Charles Harry
